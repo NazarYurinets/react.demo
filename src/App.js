@@ -1,11 +1,11 @@
-import Simpsons from "./component/Simpsons";
+import Characters from "./component/Сharacters";
 
 
 function App(){
 
     return(
         <div>
-        <Simpsons/>
+<Characters/>
         </div>
     );
 }
