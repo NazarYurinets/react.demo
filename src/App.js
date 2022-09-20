@@ -1,11 +1,11 @@
-import Characters from "./component/Сharacters";
+import {Users} from "./component";
 
 
 function App(){
 
     return(
         <div>
-<Characters/>
+<Users/>
         </div>
     );
 }
