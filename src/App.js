@@ -1,11 +1,11 @@
-import {Users} from "./component";
+import Rockets from "./component/Rockets";
 
 
 function App(){
 
     return(
         <div>
-<Users/>
+<Rockets/>
         </div>
     );
 }

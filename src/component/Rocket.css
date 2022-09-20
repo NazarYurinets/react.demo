@@ -1,0 +1,8 @@
+.RocketContainer{
+    margin: 10px;
+    border: 1px solid deepskyblue;
+    text-align: center;
+    background: #ff6363;
+    color: #536aff;
+    border-radius: 15px;
+}
